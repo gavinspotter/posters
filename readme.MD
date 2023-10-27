@@ -1,4 +1,4 @@
-<code style="color : lightskyblue">
+<code>
 Posters
 </code>
 <br/>
@@ -17,6 +17,7 @@ Posters
 
 <br/>
 <br/>
+
 ![posters](/posters/Worktrain.jpg)
 <br/>
 <br/>
@@ -29,6 +30,7 @@ Posters
 
 <br/>
 <br/>
+
 ![posters](/posters/Theeyesofabortion.jpg)
 <br/>
 <br/>
