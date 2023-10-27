@@ -1,6 +1,4 @@
-<code>
-Posters
-</code>
+<code> Posters </code>
 <br/>
 <br/>
 <br/>
