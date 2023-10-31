@@ -1,5 +1,14 @@
 <code> Posters </code>
 <br/>
+
+<br/>
+<br/>
+
+![posters](/posters/Afflictionofthechalcedon.jpg)
+<br/>
+<br/>
+
+![posters](/posters/Pinkandblue.jpg)
 <br/>
 <br/>
 
